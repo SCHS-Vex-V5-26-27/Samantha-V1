@@ -85,7 +85,7 @@ using namespace vex;
 /*------------------------------*/
 /*  GLOBAL OBJECTS & VARIABLES  */
 /*------------------------------*/
-int controllerDeadzone = 0;
+const int controllerDeadzone = 0;
 
 //The brain is referenced as "Brain", but his name is MARTIN.  Please do not deadname him.
 //MARTIN - "mindful advanced respectable toaster interface node"
